@@ -144,8 +144,8 @@
 
     <repositories>
         <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
+            <id>nexusRepo</id>
+            <url>https://204.236.137.103:8081/repository/sandy1/</url>
         </repository>
     </repositories>
 </project>
