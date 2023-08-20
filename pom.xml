@@ -18,9 +18,9 @@
         <java.version>1.8</java.version>
         <start-class>dev.App</start-class>
     </properties>
-#sandeep sahul fitnesss factory
+#sandeep sahul fitness
     #jai sri lakshmi narasimha eranna swamy
-
+sandeep kumar
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
